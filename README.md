@@ -1,5 +1,5 @@
 # Node.js-MySQL
-![alt text](screenshots/(31).png "Description goes here")
-![alt text](screenshots/(32).png "Description goes here")
-![alt text](screenshots/(33).png "Description goes here")
-![alt text](screenshots/(34).png "Description goes here")
+C:\Users\tjlei\Desktop\Node.js-MySQL\images\Screenshot (31).png
+C:\Users\tjlei\Desktop\Node.js-MySQL\images\Screenshot (32).png
+C:\Users\tjlei\Desktop\Node.js-MySQL\images\Screenshot (33).png
+C:\Users\tjlei\Desktop\Node.js-MySQL\images\Screenshot (34).png
