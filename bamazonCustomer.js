@@ -10,8 +10,6 @@ var connection = mysql.createConnection({
 
   user: "root",
 
-  // password kept private in github
- //  password: password.password, 
   password: "root",
   database: "bamazon_DB"
 });
