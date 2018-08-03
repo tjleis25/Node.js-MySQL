@@ -15,6 +15,7 @@ In Running this application the app will then prompt users with two messages. Se
 ![](images/Screenshot%20(32).png) 
 ![](images/Screenshot%20(33).png)
 
+   * If so, a message will appear saying "You're order has been successfully placed"
    * If not, the app will log the phrase, "Sorry. Not enough items in stock. Please try again.", and then prevents the order from going through.
    
 ![](images/Screenshot%20(34).png) 
