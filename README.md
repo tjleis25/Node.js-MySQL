@@ -7,8 +7,8 @@ Using MySQL, the first order of business was to create a table of 10 different p
 
 In Running this application the app will then prompt users with two messages. See Images below. 
 
-   * The first should ask them the ID of the product they would like to buy.
-   * The second message should ask how many units of the product they would like to buy.
+   * Which item would you like to buy?
+   * How many units of the item would you like to buy?
 
  Once the customer has placed the order, the application then verifies that the store has enough of the product to meet the customer's request.
  
